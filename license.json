@@ -1,0 +1,16 @@
+{
+  "license": {
+    "version": 1,
+    "signature": "4ae8ea8487cf0e54d814faa603abbbd3b192f6c5018de64b1aa0cdd3a9ed436a73b685bcfbac9702c4eb493e62c4b8593b61d4d6e1659f84870bc83281e7f823",
+    "payload": {
+      "customer": "MS3 Inc (Mountain State Software)",
+      "license_creation_date": "2022-02-23",
+      "product_subscription": "Kong Enterprise Edition",
+      "support_plan": "None",
+      "admin_seats": "5",
+      "dataplanes": "10",
+      "license_expiration_date": "2023-04-05",
+      "license_key": "0011K00002JKCLRQA5_a1V1K0000086GXfUAM"
+    }
+  }
+}
